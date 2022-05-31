@@ -926,7 +926,7 @@ class PlayState extends MusicBeatState
 				resetFastCar();
 				insert(members.indexOf(gfGroup) - 1, fastCar);
 			
-			case 'schoolEvil':
+			case 'haha':
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
 		}
